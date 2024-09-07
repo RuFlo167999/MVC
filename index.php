@@ -1,4 +1,4 @@
 <?php
-    echo "prueba";
+    //echo "prueba";
     require("Controlador/c_personas.php");
 ?>
